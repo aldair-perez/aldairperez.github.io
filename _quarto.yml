@@ -29,6 +29,4 @@ about:
     left: Aldair Perez Marmolejo
     right: Spring 2025
 
-format:
-  html:
     theme: styles.scss # I've also removed the 'css: styles.css' option that was included by the default, since I'll be writing all my sass and css in this single styles.scss file
