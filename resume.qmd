@@ -3,4 +3,4 @@ title: "resume"
 format: html
 ---
 
-Here is my resume:<embed src= "Resume_ Aldair Perez.pdf" type="application/pdf"width="100%" height="600px">
+Here is my resume: <embed src= "Resume_ Aldair Perez.pdf" type="application/pdf"width="100%" height="600px">

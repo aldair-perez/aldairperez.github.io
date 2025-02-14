@@ -4,7 +4,7 @@ title: "projects"
 
 In the Spring of 2025, I took a class Quantative Reasoning class based in R. I am learning how to use RStudio in the completion of this assignment
 
-## [Building a project website]()
+## Building a project website
 
 -   In this assignment, I'm making my personal portfolio.
 -   I'm learning how to navigate my github account.
