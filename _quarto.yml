@@ -24,7 +24,7 @@ editor: visual
 about:
   template: trestles
 
-  page footer:
+  page-footer:
     background: light # or 'dark'
     left: Aldair Perez Marmolejo
     right: Spring 2025
