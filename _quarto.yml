@@ -5,6 +5,7 @@ project:
 website:
   title: "aldairperez.io"
   navbar:
+    left:
       - href: index.qmd
         text: Home
       - href: project.qmd
