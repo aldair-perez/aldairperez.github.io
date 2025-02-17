@@ -23,10 +23,3 @@ editor: visual
 
 about:
   template: trestles
-
-  page-footer:
-    background: light # or 'dark'
-    left: Aldair Perez Marmolejo
-    right: Spring 2025
-
-    theme: styles.scss # I've also removed the 'css: styles.css' option that was included by the default, since I'll be writing all my sass and css in this single styles.scss file

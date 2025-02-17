@@ -8,4 +8,4 @@ In the Spring of 2025, I took a class Quantitative Reasoning class based in R. I
 
 -   In this assignment, I'm making my personal portfolio.
 -   I'm learning how to navigate my github account.
--   I'm currently working on lab 1.
+-   I'm creating my first website via RStudio.
