@@ -1,1 +1,9 @@
-/* css styles */
+/*-- scss:defaults --*/
+
+// Colors
+$blue: #006FFF
+$orange: #FF9000
+
+// Base document colors
+$navbar-bg: $blue; // $navbar
+$navbar-fg: $orange; // navbar foreground elements
