@@ -5,4 +5,4 @@ format: html
 
 Here is my resume:
 
-<embed src="C://Users/aldai/Downloads/Resume_%20Aldair%20Perez.pdf" type="application/pdf"width="100%" height="600px">
+<embed src="C:/Users/aldai/Git/aldairperez.github.io/doc/resources/Resume_%20Aldair%20Perez.pdf" type="application/pdf"width="100%" height="600px">
