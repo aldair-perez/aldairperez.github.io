@@ -4,7 +4,7 @@ project:
 
 website:
   title: "aldairperez.io"
-  image: C:/Users/aldai/Git/aldairperez.github.io/docs/resources/screenshot 2024-08022 143640.png
+  image: resources/screenshot 2024-08022 143640.png
   navbar:
     left:
       - href: index.qmd
