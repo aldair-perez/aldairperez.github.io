@@ -5,4 +5,4 @@ format: html
 
 Here is my resume:
 
-<iframe src="Resume_%20Aldair%20Perez.pdf" width="100%" height="600px">
+[Download my Resume](C:/Users/aldai/Git/aldairperez.github.io/doc/resources/Resume_%20Aldair%20Perez.pdf)
